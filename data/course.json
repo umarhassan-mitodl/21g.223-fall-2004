@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "English as a Second Language"
+    ]
+  ],
+  "legacy_uid": "00e14101-e040-977e-268c-8b161dce2cda",
+  "instructors": {
+    "content": [
+      "8bb6943b-bbda-b124-2047-d05ff1f85afc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "781c0167-b8ca-5112-ea48-1d2f9836a2e9",
+    "website": "21g-223-listening-speaking-and-pronunciation-fall-2004"
+  },
+  "course_title": "Listening, Speaking, and Pronunciation",
+  "course_description": "This course is designed for high-intermediate ESL students who need to develop better listening comprehension and oral skills, which will primarily be achieved by detailed instructions on pronunciation.\u00a0Our focus will be on (1) producing accurate and intelligible English, (2) becoming more comfortable listening to rapidly spoken English, and (3) learning common expressions, gambits, and idioms used in both formal and informal contexts.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.224",
+  "primary_course_number": "21G.223",
+  "course_image_thumbnail": {
+    "content": "d477d7c8-f8e1-bb24-9c3a-36b394aa44e3",
+    "website": "21g-223-listening-speaking-and-pronunciation-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "site_uid": "142a6c0f-ad20-4f1f-beb0-6c1136123017",
+  "site_short_id": "21g.223-fall-2004",
+  "site_url_path": "courses/21g-223-listening-speaking-and-pronunciation-fall-2004",
+  "title": "Course Metadata"
+}
