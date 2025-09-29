@@ -5,6 +5,8 @@ description: Study handout. Course Handouts are adapted from Janet Goodwin's AP&
 file: /courses/21g-223-listening-speaking-and-pronunciation-fall-2004/d54f3bba263684cab866eb7b25fe1533_MIT21G_223F04_epenthesis.pdf
 file_size: 220184
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
